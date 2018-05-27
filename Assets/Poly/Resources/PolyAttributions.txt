@@ -1,0 +1,163 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Camera stand
+Author: Jason Oudshoorn
+URL: https://poly.google.com/view/5CHQvf_emuN
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cash Money - Stack of 20's
+Author: Evol Love
+URL: https://poly.google.com/view/eT4Y8WwtnIZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Ceiling Light
+Author: Jarlan Perez
+URL: https://poly.google.com/view/7-ZyHe177WV
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Chandelier
+Author: Poly by Google
+URL: https://poly.google.com/view/bXveeuhkcZY
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Coffee Table
+Author: Francisco Hui
+URL: https://poly.google.com/view/dP74Xz2DlMe
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Crate
+Author: Robin Brook
+URL: https://poly.google.com/view/fKox3UXY7sU
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Crystals
+Author: Gabriel Martzloff
+URL: https://poly.google.com/view/cd6r909eGcD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Curtains
+Author: Poly by Google
+URL: https://poly.google.com/view/9bI1TGwmvzD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Drafting Table
+Author: Joshua Johanson
+URL: https://poly.google.com/view/8Z4yYj39NWS
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: easel
+Author: yentc atmcdg
+URL: https://poly.google.com/view/52cDlIgLNvv
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Empty box
+Author: Poly by Google
+URL: https://poly.google.com/view/86_1dd-Z27K
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Empty Chest
+Author: Daniel Timko
+URL: https://poly.google.com/view/3I2OiZ92Nz7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: End Table
+Author: Stephen White
+URL: https://poly.google.com/view/d2gHRmXCGyt
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Handpaint Chair_Cgart
+Author: Oanh Nguyen
+URL: https://poly.google.com/view/abda4C5nluh
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: House plant
+Author: Poly by Google
+URL: https://poly.google.com/view/3qh9saogdJd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Houseplant
+Author: Poly by Google
+URL: https://poly.google.com/view/e9oRt-Ct6js
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Key
+Author: Poly by Google
+URL: https://poly.google.com/view/9_pU3cY465w
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lamp
+Author: Alex “SAFFY” Safayan
+URL: https://poly.google.com/view/0UCHhzSvIdB
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Large Stack of Paper
+Author: Jarlan Perez
+URL: https://poly.google.com/view/8IY5NMKWEJW
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Message board
+Author: Poly by Google
+URL: https://poly.google.com/view/fDpegPgEB0j
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Rolling Music Speaker Stand
+Author: Peter Simcoe
+URL: https://poly.google.com/view/2QYyKRb68QD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Softbox
+Author: Niels Glodny
+URL: https://poly.google.com/view/bWn8jnx7nky
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: test
+Author: Kendra Chen
+URL: https://poly.google.com/view/ac2_W9CL0XH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Umbrella palm tree
+Author: Poly by Google
+URL: https://poly.google.com/view/8Qwgncb6dJT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wall painting
+Author: Poly by Google
+URL: https://poly.google.com/view/0CiZ4f1cZaF
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wooden crate Stool
+Author: Adam Marc Williams
+URL: https://poly.google.com/view/aJOnIi58Omc
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wooden Crate Stool
+Author: Adam Marc Williams
+URL: https://poly.google.com/view/d9k1tf_HpUV
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
