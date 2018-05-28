@@ -1,5 +1,11 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: Artist Drafting Table & Stool
+Author: Joshua Johanson
+URL: https://poly.google.com/view/4YPqCIseq8L
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Camera stand
 Author: Jason Oudshoorn
 URL: https://poly.google.com/view/5CHQvf_emuN
@@ -129,6 +135,12 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Softbox
 Author: Niels Glodny
 URL: https://poly.google.com/view/bWn8jnx7nky
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Table lamp
+Author: Anastasiia Ku
+URL: https://poly.google.com/view/6csTmQiq4Xq
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
